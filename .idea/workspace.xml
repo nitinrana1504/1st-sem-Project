@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cad11c9-3907-4161-a2b7-3c97244c915b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ResultSet2xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HotelManagementSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Addroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomerInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManagerInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PickUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Splash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpdateCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpdateRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adminlogin.java" afterDir="false" />
-    </list>
+    <list default="true" id="6cad11c9-3907-4161-a2b7-3c97244c915b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +18,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="https://github.com/nitinrana1504/Hotel-Management-System.git" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -91,6 +72,30 @@
       <option name="presentableId" value="Default" />
       <updated>1720356742352</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st sem project">
+      <option name="closed" value="true" />
+      <created>1720425523328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720425523328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st sem project" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st sem project" />
   </component>
 </project>
